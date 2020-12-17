@@ -6866,6 +6866,7 @@ var rules = [
   "@@||youdao.com",
   "@@||zhongsou.com",
   "@@|http:\/\/ime.baidu.jp"
+  ".gstatic.com"
 ];
 
 /*
