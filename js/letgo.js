@@ -1,4 +1,4 @@
-var proxy = "PROXY rcd.rtwork.win:7121; DIRECT;";
+var proxy = "PROXY rcd.rtwork.win:7282; DIRECT;";
 
 var rules = [
   "|http:\/\/85.17.73.31\/",

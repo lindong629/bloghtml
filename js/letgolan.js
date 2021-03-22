@@ -1,4 +1,4 @@
-var proxy = "PROXY 192.168.168.254:7121; DIRECT;";
+var proxy = "PROXY 192.168.168.254:7282; DIRECT;";
 
 var rules = [
   "|http:\/\/85.17.73.31\/",
